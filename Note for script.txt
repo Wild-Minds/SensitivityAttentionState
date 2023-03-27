@@ -1,0 +1,5 @@
+
+Within the Script, we have indicated which file must be imported at lines 25, 63 and 325
+
+As detailed in the Supplementary Material, we have replicated analyses on a subset of gestures that were produced individually or as the first gesture in a sequence. 
+Thus, to obtain the results related to theses analyses, we just need to substitute the indicated file by the same one followed by "_Onlyfirst".
